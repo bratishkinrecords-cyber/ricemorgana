@@ -1,0 +1,13 @@
+{
+  "name": "ricemorgana-forum",
+  "version": "1.0.0",
+  "description": "Minimal forum website for community discussions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check": "node --check server.js"
+  },
+  "keywords": ["forum"],
+  "license": "MIT"
+}

@@ -1,0 +1,157 @@
+{
+  "nextOfferId": 6,
+  "nextCommentId": 4,
+  "nextTopicId": 4,
+  "nextReplyId": 4,
+  "offers": [
+    {
+      "id": 1,
+      "title": "Steam аккаунт с библиотекой 120+ игр",
+      "category": "Игры",
+      "price": 2490,
+      "seller": "GameVault",
+      "rating": 4.9,
+      "orders": 1342,
+      "warranty": "14 дней",
+      "description": "Доступ к аккаунту с AAA-играми, смена данных возможна. Поддержка 24/7.",
+      "tags": [
+        "Steam",
+        "AAA",
+        "Смена данных"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Telegram Premium 12 месяцев",
+      "category": "Подписки",
+      "price": 790,
+      "seller": "SubStore",
+      "rating": 5,
+      "orders": 854,
+      "warranty": "30 дней",
+      "description": "Официальная активация Telegram Premium на 1 год. Быстрая выдача.",
+      "tags": [
+        "Telegram",
+        "Premium",
+        "Годовая"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "YouTube канал 40K подписчиков",
+      "category": "Соцсети",
+      "price": 15990,
+      "seller": "SocialKing",
+      "rating": 4.8,
+      "orders": 211,
+      "warranty": "Гарант сделки",
+      "description": "Канал с активной аудиторией, ниша: технологии. Передача через бренд-аккаунт.",
+      "tags": [
+        "YouTube",
+        "Монетизация",
+        "Актив"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Discord Nitro 1 месяц",
+      "category": "Подписки",
+      "price": 249,
+      "seller": "NitroHub",
+      "rating": 4.9,
+      "orders": 2301,
+      "warranty": "7 дней",
+      "description": "Моментальная выдача кода Nitro. Подходит для новых аккаунтов.",
+      "tags": [
+        "Discord",
+        "Nitro",
+        "Code"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "VPN аккаунт (WireGuard) 1 год",
+      "category": "Сервисы",
+      "price": 990,
+      "seller": "SafeConnect",
+      "rating": 4.7,
+      "orders": 492,
+      "warranty": "30 дней",
+      "description": "Стабильный VPN с серверами в 20 странах. До 5 устройств.",
+      "tags": [
+        "VPN",
+        "WireGuard",
+        "1 год"
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "offerId": 1,
+      "author": "neo",
+      "text": "Покупал 2 раза, всё чётко и быстро.",
+      "createdAt": "2026-02-27 18:10"
+    },
+    {
+      "id": 2,
+      "offerId": 1,
+      "author": "irka",
+      "text": "Поддержка помогла со сменой почты.",
+      "createdAt": "2026-02-27 19:43"
+    },
+    {
+      "id": 3,
+      "offerId": 3,
+      "author": "maxx",
+      "text": "Сделка через гаранта, рекомендую.",
+      "createdAt": "2026-02-28 09:00"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "title": "Как выбрать надёжного продавца?",
+      "author": "mod_alex",
+      "content": "Делимся чеклистом: рейтинг, отзывы, срок на площадке и гарант.",
+      "createdAt": "2026-02-27 14:40"
+    },
+    {
+      "id": 2,
+      "title": "Какие категории добавить в маркет?",
+      "author": "community",
+      "content": "Пишите идеи по новым товарам и сервисам.",
+      "createdAt": "2026-02-27 21:12"
+    },
+    {
+      "id": 3,
+      "title": "Лучшие практики безопасной сделки",
+      "author": "security_team",
+      "content": "Используйте только встроенный гарант и не уходите в личные сообщения.",
+      "createdAt": "2026-02-28 08:20"
+    }
+  ],
+  "replies": [
+    {
+      "id": 1,
+      "topicId": 1,
+      "author": "wizard",
+      "text": "Смотрю на % успешных заказов и возраст магазина.",
+      "createdAt": "2026-02-27 15:01"
+    },
+    {
+      "id": 2,
+      "topicId": 1,
+      "author": "sunny",
+      "text": "Если отзывов мало — не рискую с большими суммами.",
+      "createdAt": "2026-02-27 16:17"
+    },
+    {
+      "id": 3,
+      "topicId": 3,
+      "author": "safe_user",
+      "text": "Поддерживаю, гарант обязателен.",
+      "createdAt": "2026-02-28 09:12"
+    }
+  ]
+}
